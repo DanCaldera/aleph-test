@@ -15,13 +15,13 @@ export default function Index() {
       }}
     >
       <Head>
-        <title>Aleph Test</title>
+        <title>Blog</title>
         <meta name='description' content='The Fullstack Framework in Deno.' />
       </Head>
       <p className='logo'>
         <img src='./assets/logo.svg' width='75' height='75' title='Aleph.js' />
       </p>
-      <h1 className='text-3xl font-bold mt-2'>The Fullstack Framework in Deno.</h1>
+      <h1 className='text-3xl font-bold mt-2'>Sample Blog.</h1>
       <p className='text-center text-md text-gray-800'>
         <strong>Aleph.js</strong> gives you the best developer experience for building web applications
         <br /> with modern toolings.
